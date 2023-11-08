@@ -1,0 +1,8 @@
+com\dms\dao\ItemManagerDAO.class
+com\dms\dao\StatisticsDataDAO.class
+com\dms\beans\StatisticData.class
+com\dms\controller\ItemCategoryController.class
+com\dms\beans\Category.class
+com\dms\dao\CategoryManagerDAO.class
+com\dms\beans\Item.class
+com\dms\dao\DatabaseManager.class
